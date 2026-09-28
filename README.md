@@ -1,5 +1,10 @@
 # Governed RAG Agent
 
+[![ci](https://github.com/sarathalapad/governed-rag-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/sarathalapad/governed-rag-agent/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **A small, auditable AI agent that answers questions from company documents and never acts on risky requests without human approval.**
 
 Built by **Sarathkumar K** as a compact, readable demonstration of the patterns I use in larger on-premises enterprise AI platforms: hybrid retrieval, guardrails, PII protection, human-in-the-loop tool use, tamper-evident audit and evaluation gates.
